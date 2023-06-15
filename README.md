@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm savinda jayasekara</h1>
 <h3 align="center">Student at institute of software engineering</h3>
 
+![Uploading Grey Minimalist Modern Social Media Specialist LinkedIn Banner.png…]()
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindajayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="savindajayasekara" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savindajayasekara" alt="savindajayasekara" /></a> </p>
