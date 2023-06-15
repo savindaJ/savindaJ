@@ -1,7 +1,7 @@
+![Grey Minimalist Modern Social Media Specialist LinkedIn Banner](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/4e1f1232-dc3a-4a1c-af31-528e914b9751)
+
 <h1 align="center">Hi 👋, I'm savinda jayasekara</h1>
 <h3 align="center">Student at institute of software engineering</h3>
-
-![Grey Minimalist Modern Social Media Specialist LinkedIn Banner](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/4e1f1232-dc3a-4a1c-af31-528e914b9751)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindajayasekara&label=Profile%20views&color=0e75b6&style=flat" alt="savindajayasekara" /> </p>
 
