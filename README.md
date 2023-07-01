@@ -1,6 +1,6 @@
 
 
-<img src="![guia](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d)" alt="Savinda" width="160" height="160">
+<img src="https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d)" alt="Savinda" width="160" height="160">
  
 
 <h1 align="center">Hi 👋, I'm savinda jayasekara</h1>
