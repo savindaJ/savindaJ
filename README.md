@@ -1,5 +1,10 @@
 
-![guia](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/68aad618-1511-482e-8a5c-93e9dc9d3646)
+<p align="center">
+  <a href="savinda.42web.io">
+    <img src="![guia](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/7f63fe15-87e6-48ce-a7e5-4f66528d426d)" alt="Savinda" width="160" height="160">
+  </a>
+  <h1 align="center">Guia Extenso de Programação</h1>
+</p>
 
 <h1 align="center">Hi 👋, I'm savinda jayasekara</h1>
 <h3 align="center">Student at institute of software engineering</h3>
