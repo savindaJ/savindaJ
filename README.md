@@ -1,4 +1,5 @@
-![Grey Minimalist Modern Social Media Specialist LinkedIn Banner](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/4e1f1232-dc3a-4a1c-af31-528e914b9751)
+
+![guia](https://github.com/SavindaJayasekara/SavindaJayasekara/assets/124574201/68aad618-1511-482e-8a5c-93e9dc9d3646)
 
 <h1 align="center">Hi 👋, I'm savinda jayasekara</h1>
 <h3 align="center">Student at institute of software engineering</h3>
