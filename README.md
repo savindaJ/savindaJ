@@ -3,6 +3,10 @@
       alt="Savinda" width="160" height="160">
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Savinda+Jayasekara;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p><br>
+
 <h1 align="center">Hi 👋, I'm Savinda jayasekara</h1>
 <h3 align="center">A Full stack Developer in Srilanka</h3>
 
