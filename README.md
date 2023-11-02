@@ -43,5 +43,14 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaj&" alt="savindaj" /></p>
 
-<img alt="Coding" width="900" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/github-contribution-grid-snake.svg">
+<div>
+    <a href="https://www.freelancer.com/affiliates/email/70991919/"><img src="https://cdn3.f-cdn.com/ppic/225854581/logo/70991919/profile_logo_70991919.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a><div style="min-height:40px;"><a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/70991919/">Savinda Jayasekara</a><p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">software developer </p>
+<p style="margin: 0;"><strong>P: </strong> 703973327</p>
+
+<p style="margin: 0;"><strong>E:</strong> thantrige32@gmail.com</p>
+</div>
+    <img src="https://www.freelancer.com/static/css/images/landingpage/hireme-widget-builder/fl-bird-icon.png" style="clear:left;float:left;margin: 10px 0;">
+    <a href="https://www.freelancer.com/affiliates/email/70991919/" style="display: block;text-decoration: underline;margin: 10px 0 10px 10px;vertical-align: middle;height: 21px;float: left">Hire me on Freelancer.com</a>
+    <img src="//t.flnwdgt.com/1px.gif?username=SavindaJ&amp;en=externalHireme&amp;method=img&amp;label=hiremeEmailImpression&amp;ip=61.245.171.71&amp;type=emailSignature" alt="" style="float:left;">
+</div>
 
