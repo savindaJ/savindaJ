@@ -47,7 +47,7 @@
 </p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaJ&" alt=“savindaJ”/></p>-->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=savindaJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=savindaJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=savindaJ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
