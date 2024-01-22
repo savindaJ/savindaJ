@@ -45,12 +45,6 @@
 <p>&nbsp;<img align=“center” src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&locale=en" alt=“savindaJ”/>
 </p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaJ&" alt=“savindaJ”/></p>
 
-:
-<!--    ![](https://github-readme-stats.vercel.app/api?username=savindaJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=savindaJ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)-->
-
-
 <div>
     <a href="https://www.freelancer.com/affiliates/email/70991919/"><img src="https://cdn3.f-cdn.com/ppic/225854581/logo/70991919/profile_logo_70991919.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a><div style="min-height:40px;"><a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/70991919/">Savinda Jayasekara</a><p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">software developer </p>
 <p style="margin: 0;"><strong>P: </strong> 703973327</p>
