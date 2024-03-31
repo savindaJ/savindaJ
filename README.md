@@ -41,9 +41,9 @@
 
 
 # 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savindaJ&show_icons=true&locale=en&layout=compact" alt="savindaJ"/></p>
-<p>&nbsp;<img align=“center” src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&locale=en" alt=“savindaJ”/>
-</p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaJ&" alt=“savindaJ”/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savindaj&show_icons=true&locale=en&layout=compact" alt="savindaJ"/></p>
+<p>&nbsp;<img align=“center” src="https://github-readme-stats.vercel.app/api?username=savindaj&show_icons=true&locale=en" alt=“savindaJ”/>
+</p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaj&" alt=“savindaJ”/></p>
 
 <div>
     <a href="https://www.freelancer.com/affiliates/email/70991919/"><img src="https://cdn3.f-cdn.com/ppic/225854581/logo/70991919/profile_logo_70991919.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:100px; max-height: 100px; border-radius: 50%;"></a><div style="min-height:40px;"><a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/70991919/">Savinda Jayasekara</a><p style="margin: 0;margin-bottom: 6px; white-space: nowrap;overflow: hidden">software developer </p>
