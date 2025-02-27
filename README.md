@@ -3,7 +3,7 @@
       alt="Savinda" width="160" height="160">
 </p>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Savinda+Jayasekara;Competitive+Programmer;IJSE+GDSE+Student;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=HI+I'm+Savinda+Jayasekara;Competitive+Programmer;Java%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka/savindaJ.svg)](https://user-badge.committers.top/sri_lanka/savindaJ)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindaj&label=Profile%20views&color=0e75b6&style=flat" alt="savindaj" /> </p>
