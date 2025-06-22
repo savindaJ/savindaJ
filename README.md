@@ -24,7 +24,7 @@
 </p>
 
 - 🌱 I’m currently exploring **advanced DevOps practices, multi-cloud deployment, and AI integration**
-- 🧰 I’m the **tool owner of [Spring Draw](https://github.com/SavindaJayasekara/spring-draw)** – an efficient project scaffolding utility for Spring Boot
+- 🧰 I’m the **tool owner of [Spring Draw](http://springdraw.sellorapos.com/)** – an efficient project scaffolding utility for Spring Boot
 - 🧠 Actively enhancing my expertise in **CI/CD pipelines, cloud-native apps, and containerized microservices**
 - 👨‍💻 Portfolio available at: [https://savindaj.github.io/MyPortfolio/](https://savindaj.github.io/MyPortfolio/)
 - 📝 I share technical insights on: [https://medium.com/@thantrige32](https://medium.com/@thantrige32)
