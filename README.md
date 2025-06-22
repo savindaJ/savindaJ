@@ -67,6 +67,27 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savindaj&show_icons=true&locale=en&layout=compact" alt="savindaj" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br/>
+  <i>— Savinda Jayasekara</i>
+</p>
+
+<p align="center">
+  🚀 Made with ❤️ by <strong>Savinda Jayasekara</strong> | Full Stack Engineer & Tool Creator (Spring Draw)
+</p>
+
+<p align="center">
+  © 2024 Savinda Jayasekara | All rights reserved.
+</p>
+
+
+
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=savindaj&show_icons=true&locale=en" alt="savindaj" />
 </p>
