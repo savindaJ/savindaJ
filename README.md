@@ -9,13 +9,13 @@
   </a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/sri_lanka/savindaJ.svg)](https://user-badge.committers.top/sri_lanka/savindaJ)
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/savindaJ.svg)](https://user-badge.committers.top/sri_lanka_private/savindaJ)
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=savindaj&label=Profile%20views&color=0e75b6&style=flat" alt="savindaj" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Savinda Jayasekara</h1>
-<h3 align="center">A passionate Full Stack Software Engineer from Sri Lanka | Tool Owner of Spring Draw</h3>
+<h3 align="center">Associate Software Engineer @ HashBaze Pvt Ltd | Full Stack Developer & DevOps Enthusiast | Creator of <a href="http://sprindraw.com/">Spring Draw</a></h3>
 
 <p align="left">
   <a href="https://twitter.com/" target="blank">
@@ -23,15 +23,19 @@
   </a>
 </p>
 
-- 🌱 I’m currently exploring **advanced DevOps practices, multi-cloud deployment, and AI integration**
-- 🧰 I’m the **tool owner of [Spring Draw](http://springdraw.sellorapos.com/)** – an efficient project scaffolding utility for Spring Boot
-- 🧠 Actively enhancing my expertise in **CI/CD pipelines, cloud-native apps, and containerized microservices**
-- 👨‍💻 Portfolio available at: [https://savindaj.github.io/MyPortfolio/](https://savindaj.github.io/MyPortfolio/)
-- 📝 I share technical insights on: [https://medium.com/@thantrige32](https://medium.com/@thantrige32)
-- 💬 Ask me about **Java | Spring Boot | MERN | MEAN | .NET | DevOps | Cloud Engineering**
-- 📫 Reach me via: [https://www.buymeacoffee.com/thantrige33](https://www.buymeacoffee.com/thantrige33)
-- 📄 View my résumé and work: [https://savindaj.github.io/MyPortfolio/](https://savindaj.github.io/MyPortfolio/)
-- ⚡ Fun fact: **Always learning, always shipping 👨‍💻**
+---
+
+### 🚀 About Me
+- 🏢 **Associate Software Engineer** at **HashBaze Pvt Ltd**, specializing in full-stack development
+- 💼 Expert in **Java, Node.js, Python**, and robust **CI/CD pipelines**
+- ☁️ Experienced in deploying and managing infrastructure on **AWS & GCP**, including **VPS environments**
+- 🧰 Creator of **[Spring Draw](http://springdraw.sellorapos.com/)** — a smart scaffolding tool for Spring Boot projects
+- 🌱 Currently deepening my knowledge in **cloud-native architectures, containerized microservices, and AI integration**
+- 📄 Portfolio: [https://savindaj.github.io/MyPortfolio/](https://savindaj.github.io/MyPortfolio/)
+- 💬 Ask me about: **Java | Spring Boot | MERN/MEAN | .NET | DevOps | AWS/GCP | CI/CD**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,7 +53,19 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=savindaj&show_icons=true&theme=radical&count_private=true" alt="Savinda's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaj&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+ 
+</p>
+
+---
 
 <!-- Tools section remains unchanged; preserving all icons as requested -->
 
@@ -63,15 +79,9 @@
 </p>
 <br><br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=savindaj&show_icons=true&locale=en&layout=compact" alt="savindaj" />
-</p>
-
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+
 
 <p align="center">
   <b>“Code is like humor. When you have to explain it, it’s bad.”</b><br/>
@@ -79,19 +89,9 @@
 </p>
 
 <p align="center">
-  🚀 Made with ❤️ by <strong>Savinda Jayasekara</strong> | Full Stack Engineer & Tool Creator (Spring Draw)
+  🚀 <strong>Savinda Jayasekara</strong> | Full Stack Engineer & Tool Creator (sprindraw.com)
 </p>
 
 <p align="center">
-  © 2024 Savinda Jayasekara | All rights reserved.
-</p>
-
-
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=savindaj&show_icons=true&locale=en" alt="savindaj" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=savindaj&" alt="savindaj" />
+  © 2025 Savinda Jayasekara | All rights reserved.
 </p>
