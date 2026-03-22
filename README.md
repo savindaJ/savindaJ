@@ -11,7 +11,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/savindaJ.svg)](https://user-badge.committers.top/sri_lanka_private/savindaJ)
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=savindaj&label=Profile%20views&color=0e75b6&style=flat" alt="savindaj" />
+  <img src="https://komarev.com/ghpvc/?username=savindaJ&label=Profile%20views&color=0e75b6&style=flat" alt="savindaj" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Savinda Jayasekara</h1>
@@ -58,9 +58,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=savindaj&show_icons=true&theme=radical&count_private=true" alt="Savinda's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&theme=radical&count_private=true" alt="Savinda's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaj&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&layout=compact&theme=radical" alt="Top Languages" />
   <br/>
  
 </p>
