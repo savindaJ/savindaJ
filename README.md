@@ -153,13 +153,42 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 
 ## 📊 GitHub Stats
 
+<!-- Headline metrics grid – served by shields.io (Cloudflare-backed, virtually never down) -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/savindaJ?style=for-the-badge&color=8b5cf6&labelColor=1a1b27&logo=github&logoColor=white&label=Followers" alt="followers" />
+  <img src="https://img.shields.io/badge/Following-32-8b5cf6?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="following" />
+  <img src="https://img.shields.io/badge/Public%20Repos-57-8b5cf6?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="repos" />
+  <img src="https://img.shields.io/github/stars/savindaJ?style=for-the-badge&color=8b5cf6&labelColor=1a1b27&logo=github&logoColor=white&label=Total%20Stars" alt="stars" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-4%2C001-22d3ee?style=for-the-badge&labelColor=1a1b27&logo=git&logoColor=white" alt="contributions" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-23%20days-f97316?style=for-the-badge&labelColor=1a1b27&logo=fire&logoColor=white" alt="streak" />
+  <img src="https://img.shields.io/badge/Joined%20GitHub-Feb%202023-22c55e?style=for-the-badge&labelColor=1a1b27&logo=github&logoColor=white" alt="joined" />
+  <img src="https://img.shields.io/badge/Hireable-Yes-22c55e?style=for-the-badge&labelColor=1a1b27&logo=protonmail&logoColor=white" alt="hireable" />
+</p>
+
+<!-- Optional vercel stat cards (may load if service is healthy) -->
 <p align="center">
   <a href="https://github.com/savindaJ">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&card_width=480&cache_seconds=1800" alt="Savinda's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github" alt="Savinda's GitHub Stats" />
   </a>
   <a href="https://github.com/savindaJ">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
+</p>
+
+<!-- Manual language breakdown – guaranteed to render -->
+<h3 align="center">💻 Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-30%25-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-22%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-12%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-6%25-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-5%25-89E051?style=flat-square&logo=gnubash&logoColor=black" />
 </p>
 
 <p align="center">
