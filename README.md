@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Savinda+%F0%9F%91%8B;Full+Stack+Software+Engineer;DevOps+%26+Cloud+Enthusiast;Creator+of+Spring+Draw+%E2%9A%99%EF%B8%8F;MERN+%7C+MEAN+%7C+Spring+Boot+%7C+.NET;AWS+%7C+GCP+%7C+Azure+%7C+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=640&lines=Hi+there%2C+I'm+Savinda+%F0%9F%91%8B;Full+Stack+Software+Engineer;Mobile+App+Developer+%26+Publisher+%F0%9F%93%B1;iOS+%2B+Android+%7C+React+Native+%7C+Flutter;DevOps+%26+Cloud+Enthusiast;Creator+of+Spring+Draw+%E2%9A%99%EF%B8%8F;MERN+%7C+MEAN+%7C+Spring+Boot+%7C+.NET;AWS+%7C+GCP+%7C+Azure+%7C+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -63,9 +63,10 @@ name:        "Savinda Jayasekara"
 role:        "Associate Software Engineer"
 company:     "HashBaze (Pvt) Ltd"
 location:    "Sri Lanka 🇱🇰"
-focus:       ["Full-Stack Development", "DevOps", "Cloud", "AI Integration"]
-languages:   ["Java", "TypeScript", "Node.js", "Python", "Go"]
-ecosystems:  ["MERN", "MEAN", "Spring Boot", ".NET"]
+focus:       ["Full-Stack", "Mobile (iOS/Android)", "DevOps", "Cloud", "AI Integration"]
+languages:   ["Java", "TypeScript", "Node.js", "Python", "Go", "Swift", "Kotlin"]
+ecosystems:  ["MERN", "MEAN", "Spring Boot", ".NET", "React Native", "Flutter", "Expo"]
+mobile:      ["iOS App Publisher", "Android App Publisher", "Cross-Platform"]
 clouds:      ["AWS", "GCP", "Azure"]
 currently:   "Building cloud-native microservices & exploring AI workflows"
 funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot 🌱"
@@ -73,11 +74,12 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 
 - 🏢 **Associate Software Engineer** @ **HashBaze (Pvt) Ltd**, building production-grade full-stack systems
 - 💼 Strong in **Java • Spring Boot • Node.js • TypeScript • Python**, plus robust **CI/CD pipelines**
+- 📱 **Mobile App Publisher** & **iOS / Android Developer** — React Native, Expo, Swift & Kotlin
 - ☁️ Hands-on with **AWS, GCP & Azure** — VPS deployments, containers, and infrastructure automation
 - 🧰 Creator of **[Spring Draw](https://sprindraw.com/)** — a smart scaffolding tool for Spring Boot projects
 - 🌱 Currently deepening expertise in **cloud-native architectures, microservices & AI integration**
 - 📄 Portfolio: **[savindaj.github.io/MyPortfolio](https://savindaj.github.io/MyPortfolio/)**
-- 💬 Ask me about: **Java • Spring Boot • MERN/MEAN • .NET • DevOps • AWS/GCP • CI/CD**
+- 💬 Ask me about: **Java • Spring Boot • MERN/MEAN • .NET • iOS/Android • DevOps • AWS/GCP • CI/CD**
 - 📫 Reach me at: **thantrige322@gmail.com**
 
 ---
@@ -89,7 +91,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/savinda-jayasekara/" target="_blank">
+  <a href="https://www.linkedin.com/in/savinda-jayasekara-b81446191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/savindaJ" target="_blank">
@@ -104,7 +106,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
   <a href="https://medium.com/@savinda" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.facebook.com/savinda.jayasekara" target="_blank">
+  <a href="https://www.facebook.com/savinda.jayasekara.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:thantrige322@gmail.com">
@@ -140,9 +142,100 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,nginx,linux" alt="cloud devops" />
 </p>
 
+### 📱 Mobile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,swift,kotlin,flutter,dart,androidstudio,xcode,ionic" alt="mobile" />
+</p>
+
 ### 🧰 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,figma,npm,vite,webpack" alt="tools" />
+</p>
+
+---
+
+<!-- ============================================= -->
+<!--          MOBILE APP DEVELOPMENT               -->
+<!-- ============================================= -->
+
+## 📱 Mobile App Development
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile%20App%20Publisher-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="publisher" />
+  <img src="https://img.shields.io/badge/iOS%20Developer-000000?style=for-the-badge&logo=apple&logoColor=white" alt="ios" />
+  <img src="https://img.shields.io/badge/Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" />
+  <img src="https://img.shields.io/badge/Cross--Platform-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="cross-platform" />
+</p>
+
+> Designing, building & publishing production-grade mobile applications for **iOS** and **Android** — from concept and UX to App Store / Play Store release.
+
+### 🎯 What I Deliver
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=apple" height="60" alt="ios" /><br/>
+      <strong>iOS Apps</strong><br/>
+      <sub>Swift · SwiftUI · Xcode<br/>App Store deployment</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="android" /><br/>
+      <strong>Android Apps</strong><br/>
+      <sub>Kotlin · Jetpack · Android Studio<br/>Google Play deployment</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=react" height="60" alt="cross-platform" /><br/>
+      <strong>Cross-Platform</strong><br/>
+      <sub>React Native · Expo · Flutter<br/>Single codebase, both stores</sub>
+    </td>
+  </tr>
+</table>
+
+### 🚀 Services I Offer
+
+- 📲 **End-to-end mobile development** — concept · UI/UX · code · ship
+- 🍎 **App Store publishing** — provisioning, TestFlight, review process, submission
+- 🤖 **Play Store publishing** — signing, internal/closed/open testing, production release
+- 🔁 **Cross-platform builds** with React Native + Expo for fast time-to-market
+- 🔔 **Push notifications, in-app purchases, deep linking, OAuth/Social login**
+- 🌐 **Backend integration** — REST, GraphQL, Firebase, AWS Amplify, custom Node/Spring APIs
+- 📊 **Analytics & monitoring** — Firebase Analytics, Crashlytics, Sentry
+- 🔄 **CI/CD for mobile** — Fastlane, EAS Build, GitHub Actions, automated store uploads
+
+### 🛠️ Mobile Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black" />
+  <img src="https://img.shields.io/badge/EAS%20Build-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
+</p>
+
+### 📦 Featured Mobile Project
+
+<p align="center">
+  <a href="https://github.com/savindaJ/G-Explore">
+    <img src="https://img.shields.io/badge/G--Explore-React%20Native%20%2B%20Expo-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="G-Explore" />
+  </a>
+</p>
+
+> **G-Explore** — A mobile platform for the garage industry combining social-media features, parts marketplace, and a full garage management system for clients, garages, and employees. Built with **React Native + Expo + TypeScript** and deployed to both iOS and Android.
+
+<p align="center">
+  <em>💼 Open to freelance & contract mobile app projects — reach me at <a href="mailto:thantrige322@gmail.com">thantrige322@gmail.com</a></em>
 </p>
 
 ---
