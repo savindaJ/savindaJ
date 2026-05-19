@@ -74,7 +74,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 - 🏢 **Associate Software Engineer** @ **HashBaze (Pvt) Ltd**, building production-grade full-stack systems
 - 💼 Strong in **Java • Spring Boot • Node.js • TypeScript • Python**, plus robust **CI/CD pipelines**
 - ☁️ Hands-on with **AWS, GCP & Azure** — VPS deployments, containers, and infrastructure automation
-- 🧰 Creator of **[Spring Draw](http://springdraw.sellorapos.com/)** — a smart scaffolding tool for Spring Boot projects
+- 🧰 Creator of **[Spring Draw](https://sprindraw.com/)** — a smart scaffolding tool for Spring Boot projects
 - 🌱 Currently deepening expertise in **cloud-native architectures, microservices & AI integration**
 - 📄 Portfolio: **[savindaj.github.io/MyPortfolio](https://savindaj.github.io/MyPortfolio/)**
 - 💬 Ask me about: **Java • Spring Boot • MERN/MEAN • .NET • DevOps • AWS/GCP • CI/CD**
@@ -330,11 +330,29 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 
 ## ⚙️ Spring Draw — My Flagship Tool
 
-> A smart scaffolding tool for **Spring Boot** projects — generate clean, opinionated project structures in seconds.
+<p align="center">
+  <a href="https://sprindraw.com/">
+    <img src="https://img.shields.io/badge/sprindraw.com-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="sprindraw.com" />
+  </a>
+</p>
+
+> A smart scaffolding tool for **Spring Boot** projects — generate clean, opinionated project structures in seconds. Save hours of boilerplate setup and start coding what actually matters.
 
 <p align="center">
-  <a href="http://springdraw.sellorapos.com/">
-    <img src="https://img.shields.io/badge/Try%20Spring%20Draw-Live-22c55e?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Draw Live" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tool%20Owner-Savinda-22c55e?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://sprindraw.com/">
+    <img src="https://img.shields.io/badge/🚀%20Try%20Spring%20Draw-LIVE-22c55e?style=for-the-badge&logoColor=white" alt="Spring Draw Live" />
+  </a>
+  &nbsp;
+  <a href="https://sprindraw.com/">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20Website-1f6feb?style=for-the-badge&logoColor=white" alt="Visit Website" />
   </a>
 </p>
 
