@@ -39,8 +39,14 @@
   <a href="https://github.com/savindaJ?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-57-blueviolet?style=for-the-badge&logo=github" alt="repos" />
   </a>
-  <a href="mailto:savindajayasekara5@gmail.com">
+  <a href="mailto:thantrige322@gmail.com">
     <img src="https://img.shields.io/badge/Hireable-Yes-22c55e?style=for-the-badge&logo=protonmail&logoColor=white" alt="hireable" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:thantrige322@gmail.com">
+    <img src="https://img.shields.io/badge/thantrige322%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
@@ -72,7 +78,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 - 🌱 Currently deepening expertise in **cloud-native architectures, microservices & AI integration**
 - 📄 Portfolio: **[savindaj.github.io/MyPortfolio](https://savindaj.github.io/MyPortfolio/)**
 - 💬 Ask me about: **Java • Spring Boot • MERN/MEAN • .NET • DevOps • AWS/GCP • CI/CD**
-- 📫 Reach me at: **savindajayasekara5@gmail.com**
+- 📫 Reach me at: **thantrige322@gmail.com**
 
 ---
 
@@ -101,7 +107,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
   <a href="https://www.facebook.com/savinda.jayasekara" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:savindajayasekara5@gmail.com">
+  <a href="mailto:thantrige322@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -148,12 +154,16 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="github stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages" />
+  <a href="https://github.com/savindaJ">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=savindaJ&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&card_width=480&cache_seconds=1800" alt="Savinda's GitHub Stats" />
+  </a>
+  <a href="https://github.com/savindaJ">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindaJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=savindaJ&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com?user=savindaJ&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
@@ -161,7 +171,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savindaJ&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=savindaJ&theme=tokyo-night&hide_border=true&area=true&custom_title=Savinda's%20Contribution%20Graph" alt="activity graph" />
 </p>
 
 ---
@@ -174,42 +184,143 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/savindaJ/MyPortfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=MyPortfolio&theme=tokyonight&hide_border=true" alt="MyPortfolio" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 MyPortfolio</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/MyPortfolio">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+        <a href="https://savindaj.github.io/MyPortfolio/">
+          <img src="https://img.shields.io/badge/Live-22c55e?style=for-the-badge&logo=firefox&logoColor=white" alt="live" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/github/stars/savindaJ/MyPortfolio?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 Personal portfolio website built with native HTML, CSS & JavaScript. Fully responsive across desktops, tablets & mobile.</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/savindaJ/G-Explore">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=G-Explore&theme=tokyonight&hide_border=true" alt="G-Explore" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 G-Explore</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/G-Explore">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/savindaJ/G-Explore?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 Mobile platform for the garage industry — social feed, parts listing & full garage management for clients, garages, and employees.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/savindaJ/WatchMe">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=WatchMe&theme=tokyonight&hide_border=true" alt="WatchMe" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">⌚ WatchMe</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/WatchMe">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/savindaJ/WatchMe?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 MERN-stack platform for watch enthusiasts to browse, sell & order watches seamlessly.</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/savindaJ/Hello-Shoes-Pvt.-Ltd">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=Hello-Shoes-Pvt.-Ltd&theme=tokyonight&hide_border=true" alt="Hello Shoes" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">👟 Hello-Shoes (POS)</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/Hello-Shoes-Pvt.-Ltd">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=flat-square&logo=googledrive&logoColor=white" />
+        <img src="https://img.shields.io/github/stars/savindaJ/Hello-Shoes-Pvt.-Ltd?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 Comprehensive POS system — sales, inventory, employees, customers + integrated Google Drive & mail services.</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/savindaJ/chat-application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=chat-application&theme=tokyonight&hide_border=true" alt="Chat Application" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 Chat Application</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/chat-application">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sockets-4B8BBE?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/savindaJ/chat-application?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 Multi-client chat server built with Java socket programming — real-time messaging between multiple connected clients.</p>
     </td>
-    <td align="center">
-      <a href="https://github.com/savindaJ/connect-4-game-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=savindaJ&repo=connect-4-game-&theme=tokyonight&hide_border=true" alt="Connect 4 Game" />
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 Connect 4 Game</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/connect-4-game-">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-FF6B6B?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/savindaJ/connect-4-game-?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 OOP final coursework project — classic Connect 4 game implementation in Java with clean object-oriented design.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🐺 Lern-Husky-Hooks</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/Lern-Husky-Hooks">
+          <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="repo" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Husky-FF6F61?style=flat-square&logo=husky&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnubash&logoColor=black" />
+        <img src="https://img.shields.io/github/stars/savindaJ/Lern-Husky-Hooks?style=flat-square&color=yellow" />
+      </p>
+      <p>📌 Ultra-fast modern native git hooks — auto-lint commit messages & code with Husky on every commit.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">✅ Task Manager (Full-Stack)</h3>
+      <p align="center">
+        <a href="https://github.com/savindaJ/TaskManager-FE">
+          <img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" alt="frontend" />
+        </a>
+        <a href="https://github.com/savindaJ/TaskManager-BE">
+          <img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" alt="backend" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p>📌 Full-stack task management app with separate FE/BE repos — TypeScript end-to-end.</p>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/savindaJ?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20all%2057%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="all repos" />
+  </a>
+</p>
 
 ---
 
