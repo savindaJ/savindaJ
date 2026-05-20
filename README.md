@@ -491,17 +491,6 @@ funFact:     "I built Spring Draw â€” a smart scaffolding tool for Spring Boot ð
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Buy Me a Coffee at ko-fi.com" />
   </a>
 </p>
-
----
-
-<!-- ============================================= -->
-<!--                   SNAKE                       -->
-<!-- ============================================= -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/savindaJ/savindaJ/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 ---
 
 <!-- ============================================= -->
