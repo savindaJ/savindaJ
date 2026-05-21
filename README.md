@@ -235,7 +235,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 > **G-Explore** — A mobile platform for the garage industry combining social-media features, parts marketplace, and a full garage management system for clients, garages, and employees. Built with **React Native + Expo + TypeScript** and deployed to both iOS and Android.
 
 <p align="center">
-  <em>💼 Open to freelance & contract mobile app projects — reach me at <a href="mailto:thantrige322@gmail.com">thantrige322@gmail.com</a></em>
+  <em>💼 Open to freelance & contract mobile app projects — reach me at <a href="mailto:thantrige32@gmail.com">thantrige322@gmail.com</a></em>
 </p>
 
 ---
