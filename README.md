@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:thantrige322@gmail.com">
-    <img src="https://img.shields.io/badge/thantrige322%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:thantrige32@gmail.com">
+    <img src="https://img.shields.io/badge/thantrige32%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
 </p>
 
