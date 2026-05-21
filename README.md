@@ -39,7 +39,7 @@
   <a href="https://github.com/savindaJ?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-57-blueviolet?style=for-the-badge&logo=github" alt="repos" />
   </a>
-  <a href="mailto:thantrige322@gmail.com">
+  <a href="mailto:thantrige32@gmail.com">
     <img src="https://img.shields.io/badge/Hireable-Yes-22c55e?style=for-the-badge&logo=protonmail&logoColor=white" alt="hireable" />
   </a>
 </p>
@@ -80,7 +80,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 - 🌱 Currently deepening expertise in **cloud-native architectures, microservices & AI integration**
 - 📄 Portfolio: **[savindaj.github.io/MyPortfolio](https://savindaj.github.io/MyPortfolio/)**
 - 💬 Ask me about: **Java • Spring Boot • MERN/MEAN • .NET • iOS/Android • DevOps • AWS/GCP • CI/CD**
-- 📫 Reach me at: **thantrige322@gmail.com**
+- 📫 Reach me at: **thantrige32@gmail.com**
 
 ---
 
@@ -109,7 +109,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
   <a href="https://www.facebook.com/savinda.jayasekara.9/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="mailto:thantrige322@gmail.com">
+  <a href="mailto:thantrige32@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -235,7 +235,7 @@ funFact:     "I built Spring Draw — a smart scaffolding tool for Spring Boot �
 > **G-Explore** — A mobile platform for the garage industry combining social-media features, parts marketplace, and a full garage management system for clients, garages, and employees. Built with **React Native + Expo + TypeScript** and deployed to both iOS and Android.
 
 <p align="center">
-  <em>💼 Open to freelance & contract mobile app projects — reach me at <a href="mailto:thantrige32@gmail.com">thantrige322@gmail.com</a></em>
+  <em>💼 Open to freelance & contract mobile app projects — reach me at <a href="mailto:thantrige32@gmail.com">thantrige32@gmail.com</a></em>
 </p>
 
 ---
